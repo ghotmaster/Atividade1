@@ -1,6 +1,5 @@
 # Atividade1
 Resolução atividade 1
-Paulo Henrique 
-#
+Paulo
 unicesumar
 atv.1
